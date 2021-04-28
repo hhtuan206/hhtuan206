@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hhtuan206
 - 👀 I’m interested in music and sleep
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Wait...
 - 📫 How to reach me hhtuan206@gmail.com
 
 <!---
